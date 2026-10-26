@@ -1,2 +1,3 @@
 class TestFile {
 }
+fun hello() {}
